@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Custom Remodeling — Austin Luxury Kitchen & Bath Showroom",
+  "description": "Interactive showroom, instant remodel ROI calculator, before/after transformation slider, and 3D style visualizer for Vanguard Custom Remodeling in Austin, Texas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
